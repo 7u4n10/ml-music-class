@@ -3,6 +3,8 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+ipykernel
 jupyter
 notebook
 isort
+nbconvert
