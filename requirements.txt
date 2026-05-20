@@ -1,10 +1,19 @@
-pandas
+# Core data science
 numpy
+pandas
+
+# Visualization
 matplotlib
 seaborn
+
+# Machine learning
 scikit-learn
+
+# Jupyter environment
 ipykernel
 jupyter
 notebook
-isort
 nbconvert
+
+# Development tools
+isort
